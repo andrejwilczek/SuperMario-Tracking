@@ -1,5 +1,5 @@
 # Applied Estimation - Super Mario
-### ARTHURS:
+### ARTHORS:
 Ilian Corneliussen, Andrej Wilczek & Daniel Hirsch.
 ### PROBLEM DESCRIPTION:
 We will preform visual tracking of Mario in 
